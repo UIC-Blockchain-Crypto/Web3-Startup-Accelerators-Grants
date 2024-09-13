@@ -37,3 +37,6 @@ https://www.unicef.org/innovation/venturefund/funding-opportunity-blockchain-cap
 
 ### Solana
 https://solana.org/grants-funding
+
+### Bitcoin
+https://spiral.xyz/#grants
